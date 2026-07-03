@@ -85,8 +85,6 @@ contact_book/
 
 
 
-
-
 ## Future Improvements
 
 - Export contacts to CSV
