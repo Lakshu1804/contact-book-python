@@ -45,6 +45,48 @@ contact_book/
 └── README.md
 ```
 
+## 📸 Application Screenshots
+
+### Main Menu
+
+![Main Menu](images/main-menu.png)
+
+### Add Contact
+
+![Add Contact](images/add-contact.png)
+
+### View Contacts
+
+![View Contacts](images/view-contact.png)
+
+### Search Contact
+
+![Search Contact](images/search-contact.png)
+
+### Update Contact
+
+![Update Contact](images/update-contact.png)
+
+### Delete Contact
+
+![Delete Contact](images/delete-contact.png)
+
+### Contact Sort By Name 
+
+![Sort Contact by name](images/contact-sort-by-name.png)
+
+### Contact Sort By Phone number 
+
+![Sort Contact by phone number](images/contact-sort-by-phoneno.png)
+
+### Contact Exit
+![Exit mainu](images/contact-exit.png)
+
+
+
+
+
+
 ## Future Improvements
 
 - Export contacts to CSV
